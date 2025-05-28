@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Bem-vinda,%20Mist!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=deborinhas%20&fontSize=40&fontColor=ffffff"/>
 </p>
 ## Débora Araújo 🐹
 

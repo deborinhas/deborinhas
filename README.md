@@ -1,6 +1,6 @@
-<p align="center">
+[<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=deborinhas%20&fontSize=40&fontColor=ffffff"/>
-</p>
+</p>](https://capsule-render.vercel.app/api?type=venom&height=300&color=FF91A4&text=deborinhas&textBg=false&fontColor=	FFFFFF&section=header&reversal=false)
 ## Débora Araújo 🐹
 
 <!--

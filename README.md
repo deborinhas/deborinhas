@@ -10,7 +10,7 @@
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=deborinhas&show_icons=true&count_private=true&hide_border=true&title_color=FF91A4&icon_color=FF91A4&text_color=A8D5BA&bg_color=0d1117"
-alt="deborinhas github stats" />
+alt="Estatísticas de deborinhas" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborinhas&layout=compact&hide_border=true&title_color=FF91A4&text_color=A8D5BA&bg_color=0d1117" />
 </div>
 

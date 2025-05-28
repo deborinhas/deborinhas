@@ -12,14 +12,6 @@
 
 ###
 
-<div align="right">
-  <a href="https://open.spotify.com/user/12152840761">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152840761&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deborinhas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=FF91A4&icon_color=FF91A4&text_color=A8D5BA&bg_color=0d1117&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas%20de%20deborinhas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deborinhas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&title_color=FF91A4&icon_color=FF91A4&text_color=A8D5BA&bg_color=0d1117&hide_border=true&order=2" height="100" alt="languages graph"  />
@@ -28,27 +20,10 @@
 
 ###
 
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/deborinhas/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/deborinhas/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/deborinhas/count.svg?"  />
+<div align="right">
+  <a href="https://open.spotify.com/user/12152840761">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152840761&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###

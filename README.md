@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FF91A4&text=deborinhas&textBg=false&fontColor=FFD700&section=header&reversal=false" alt="Banner deborinhas"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FF91A4&text=deborinhas&textBg=false&#F57F12&section=header&reversal=false" alt="Banner deborinhas"/>
 </p>
 
 

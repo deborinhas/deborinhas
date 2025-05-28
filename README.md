@@ -25,6 +25,62 @@ alt="Estatísticas de deborinhas" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deborinhas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&title_color=FF91A4&icon_color=FF91A4&text_color=A8D5BA&bg_color=0d1117&hide_border=true&order=2" height="100" alt="languages graph"  />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deborinhas&radius=16&theme=react&area=true&order=5&line=FF91A4&point=A8D5BA&title_color=A8D5BA&custom_title=Contribui%C3%A7%C3%A3o%20de%20deborinhas&bg_color=0d1117&color=FF91A4&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deborinhas&radius=16&theme=react&area=true&order=5&line=FF91A4&point=A8D5BA&title_color=FF91A4&custom_title=Contribui%C3%A7%C3%A3o%20de%20deborinhas&bg_color=0D1117&color=FF91A4&hide_border=true&hide_title=false&area_color=FF91A4" height="400" alt="activity-graph graph"  />
 </div>
 
+
+
+
+
+
+
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deborinhas&radius=16&theme=react&area=true&order=5&line=FF91A4&point=A8D5BA&title_color=FF91A4&custom_title=Contribui%C3%A7%C3%A3o%20de%20deborinhas&bg_color=0D1117&color=FF91A4&hide_border=true&hide_title=false&area_color=FF91A4" height="400" alt="activity-graph graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/deborinhas/deborinhas/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deborinhas/deborinhas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deborinhas/deborinhas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deborinhas/deborinhas/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/deborinhas/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###

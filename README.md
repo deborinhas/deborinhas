@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FF91A4&text=deborinhas&textBg=false&#F57F12&section=header&reversal=false" alt="Banner deborinhas"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FF91A4&text=deborinhas&textBg=false&fontColor=F57F12&section=header&reversal=false" alt="Banner deborinhas"/>
 </p>
-
 
 <!--
 **deborinhas/deborinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

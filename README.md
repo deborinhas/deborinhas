@@ -1,8 +1,7 @@
 [<p align="center">
- [ <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FF91A4&text=deborinhas&textBg=false&fontColor=F57F12&section=header&reversal=false" alt="Banner deborinhas"/>
-</p>](https://capsule-render.vercel.app/api?type=venom&height=300&color=FF91A4&text=deborinhas&textBg=false&fontColor=F57F12&section=header&reversal=false&animation=scaleIn)
-](https://capsule-render.vercel.app/api?type=venom&height=300&color=FF91A4&text=deborinhas&textBg=false&fontColor=A8D5BA&section=header&reversal=false&animation=scaleIn)
-<!--
+ https://capsule-render.vercel.app/api?type=venom&height=300&color=FF91A4&text=deborinhas&textBg=false&fontColor=A8D5BA&section=header&reversal=false&animation=scaleIn
+
+ 
 **deborinhas/deborinhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

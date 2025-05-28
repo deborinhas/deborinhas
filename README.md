@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF91A4&height=180&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DA1884&height=180&section=header"/>
 
 ## Débora Araújo 🐹
 

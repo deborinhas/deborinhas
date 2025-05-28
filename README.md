@@ -12,6 +12,16 @@
 
 ###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deborinhas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=FF91A4&icon_color=FF91A4&text_color=A8D5BA&bg_color=0d1117&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas%20de%20deborinhas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deborinhas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&title_color=FF91A4&icon_color=FF91A4&text_color=A8D5BA&bg_color=0d1117&hide_border=true&order=2" height="100" alt="languages graph"  />

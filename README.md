@@ -12,7 +12,11 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12152840761&unique={true|1|on|yes})
+<div align="right">
+  <a href="https://open.spotify.com/user/12152840761">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152840761&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
@@ -24,11 +28,7 @@
 
 ###
 
-<div align="right">
-  <a href="https://open.spotify.com/user/12152840761">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152840761&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
